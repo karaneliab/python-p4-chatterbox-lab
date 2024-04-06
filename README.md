@@ -60,10 +60,7 @@ to enter new messages below this black box.")
 
 ![Chatterbox screenshot
 2](https://curriculum-content.s3.amazonaws.com/python/chatterbox-screenshot_2.png "A screenshot of the chatterbox app in light mode. The header is a pink bar with
-'Chatterbox' in black text. Black messages are displayed below their associated
-usernames on a white background beneath the header. There is a space to enter
-new messages below this black box. A message by user 'Duane' is in the process
-of being edited.")
+
 
 Take a look at the components provided in the `client` directory. Explore the
 code and pay special attention to where the React application is interacting
