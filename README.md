@@ -224,6 +224,8 @@ $ flask db upgrade
 $ python seed.py
 ```
 
+
+
 ### Routes
 
 Build out the following routes to handle the necessary CRUD actions:
